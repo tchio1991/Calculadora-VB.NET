@@ -2,4 +2,4 @@
 
 ### Imagem gif da aplicação
 
-![Calculadora](C:\Users\55839\Documents\Thiago TI\Projeto VB.NET\Calculadora\Imagem da aplicação\Imagem.gif)
+![Calculadora](https://github.com/tchio1991/Calculadora-VB.NET/blob/master/Imagem%20da%20aplica%C3%A7%C3%A3o/Imagem.gif)
